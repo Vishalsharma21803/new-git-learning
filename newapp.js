@@ -4,4 +4,5 @@ console.log("new breanch branch2");
 console.log("main")
 
 console.log("this is commit before rebase1");
+console.log("this is commit before rebase2");
 
